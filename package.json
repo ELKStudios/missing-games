@@ -1,0 +1,15 @@
+{
+  "name": "my-web-app",
+  "version": "1.0.0",
+  "description": "A web application to display missing games based on a user's owned games list.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
